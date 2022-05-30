@@ -1,3 +1,6 @@
+源于emotion fan的一个视频表情检测的应用
+原模型的训练可参照原po
+我为了检测改动过了basic_codes/networks.py，检测程序在test.py中
 # Emotion-FAN.pytorch
  ICIP 2019: Frame Attention Networks for Facial Expression Recognition in Videos  [pdf](https://arxiv.org/pdf/1907.00193.pdf)
  
